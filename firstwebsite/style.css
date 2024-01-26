@@ -1,0 +1,17 @@
+html{
+    background-color:lavenderblush;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    color: brown;
+    font-size: 30px;
+    background-color:rgb(250, 244, 184);
+    border: 1px dotted blue;
+}
+
+h1{
+    color: cornflowerblue;
+    text-decoration: underline;
+}
+
